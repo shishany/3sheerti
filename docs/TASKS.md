@@ -57,7 +57,7 @@ When complete: run lint + typecheck + tests, update this file, open PR.
 **Dependencies:** T-01
 
 ### T-03 — Mobile scaffolding (Expo + React Native)
-**Status:** [ ] not started
+**Status:** [x] complete
 **Goal:** Create the Expo-managed React Native app with TypeScript, navigation, and a placeholder landing screen.
 **Acceptance criteria:**
 - `apps/mobile/` is a working Expo SDK 51 app with TypeScript strict mode

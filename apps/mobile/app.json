@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "3sheerti",
+    "slug": "3sheerti",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "3sheerti",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#f7f3ea"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f7f3ea"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
