@@ -29,7 +29,7 @@ When complete: run lint + typecheck + tests, update this file, open PR.
 ## Phase 0 — Foundation Setup (T-01 through T-08)
 
 ### T-01 — Initialize monorepo with pnpm workspaces
-**Status:** [ ] not started
+**Status:** [x] complete
 **Goal:** Create the root repository structure with pnpm workspaces, base tooling, and CI scaffolding.
 **Acceptance criteria:**
 - Root `package.json` with workspace declaration
