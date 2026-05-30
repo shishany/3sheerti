@@ -43,7 +43,7 @@ When complete: run lint + typecheck + tests, update this file, open PR.
 **Dependencies:** none
 
 ### T-02 — Backend scaffolding (NestJS)
-**Status:** [ ] not started
+**Status:** [x] complete
 **Goal:** Create the NestJS backend application with TypeScript, Prisma, and basic health endpoint.
 **Acceptance criteria:**
 - `apps/backend/` is a working NestJS app
